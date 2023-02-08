@@ -1,2 +1,0 @@
-https://github.com/skanade/julia-genie-mysql-sample
-https://github.com/terasakisatoshi/ElasticCollision.jl
